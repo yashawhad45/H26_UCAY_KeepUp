@@ -4,3 +4,6 @@ venvs/
 __pycache__/
 .pytest_cache/
 *.pyc
+capsule.json
+capsule.md
+.cache/

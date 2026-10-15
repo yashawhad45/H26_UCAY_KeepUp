@@ -1,0 +1,7 @@
+pydantic>=2.0
+pytest
+requests
+packaging
+tomli; python_version < "3.11"
+google-genai
+python-dotenv
